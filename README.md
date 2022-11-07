@@ -1,2 +1,13 @@
 # Viewbot
-Tiktok and youtube viewbot
+Free Fas and Easy tiktok and youtube viewbot!
+
+How to run:
+1. replace the video id in config.json by yours
+2. run the main file by double clicking on it 
+
+
+Advantages:
+1.  fast, easy
+2.  lightweight
+3.  Has dynamic views count running on TikTok API
+4.  mobile users can run it
